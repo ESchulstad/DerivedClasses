@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DerivedClasses\DerivedClasses\bin\Debug\DerivedClasses.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DerivedClasses\DerivedClasses\bin\Debug\DerivedClasses.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DerivedClasses\DerivedClasses\bin\Debug\DerivedClasses.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DerivedClasses\DerivedClasses\obj\Debug\DerivedClasses.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DerivedClasses\DerivedClasses\obj\Debug\DerivedClasses.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DerivedClasses\DerivedClasses\obj\Debug\DerivedClasses.pdb
